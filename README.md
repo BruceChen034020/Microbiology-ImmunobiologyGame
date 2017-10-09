@@ -92,3 +92,14 @@ Chapter 10: 4 out of 12
 Chapter 11: 7 out of 19
 Chapter 12: 1 out of 10
 Chapter 13: 11 out of 18
+# 協作
+If you want to change the rule of this game, and you think the change will make improvement to this game, please edit this file.
+
+If you think some of the card in this game belongs to something(disease/pathogen) too rare for people to know, or if you see some components in this game irrelevant, you may deprecate that card by the following procedure:
+1. Delete it from 微免排列表.xlsx
+2. Add a parenthesis to the name of that card in 微免牌 disease - pathogen.md
+
+If you want to add something to this game, be sure to edit these 3 files if necessary:
+1. This file
+2. 微免排列表.xlsx
+3. 微免牌 disease - pathogen.md
