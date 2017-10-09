@@ -22,3 +22,30 @@
 發牌後由隨機一人開始逆時鐘輪流出牌。每個人在輪到自己的時候可以做很多事，稱作自己的回合。
 玩家在自己回合結束時可以從抽牌區抽2張牌。
 每個人的手牌數量上限為自己的血量的兩倍。若你的回合結束時(抽牌後)，你的手牌數量超過自己血量的2倍，你就必須棄置一些手牌，直到你的手牌數量等於你的血量的2倍為止。
+# 牌簡介
+遊戲中的牌有4種花色。Organ, Pathogen, Disease, Immunity。
+# Organs
+如果你在發牌或抽牌後得到了器官(Organ)牌，你必須立刻將該牌正面朝上擺在前面，讓所有玩家看到你獲得了一個器官。
+雖然那張器官牌不在你手上而是擺在你前面，但是它仍算作你的手牌。也就是說，如果你剩下1滴血，而且你有2個器官，那麼當你的回合結束後你的手上不能剩任何一張牌。
+器官一直擺在你前面，屬於你的，直到器官壞死為止。
+綜合以上介紹，你會認為擁有器官只有壞處沒有好處。
+# Media
+遊戲中的 Media 有6張。Air, Food, Soil, Arthropod, Sex, Contact.
+遊戲開始時隨機抽取其中一張擺在抽牌區旁邊。
+Media 是遊戲中規定唯一的疾病傳播媒介。他也有可能在遊戲過程中被其他玩家改變。
+# Pathogen attack
+若你看到你想攻擊的對象獲得了一個器官，你就可能可以用 pathogen 攻擊他，但要發動攻擊必須符合一些條件，列舉如下：
+1. 你的攻擊對象必須擁有一個你出的 pathogen 可以攻擊的器官。
+2. 放在抽牌區旁邊的 media 必須能夠傳播你的 pathogen
+例如：某個人拿到了一個 stomach 而且你手上剛好有一張 Helicobacter pylori ，而且此時的 media 剛好是 Food，你就可以利用 Helicobacter pylori 攻擊他。但若他拿到了 Small intestine 而且 media 是 air，你就甭想攻擊他了。
+# 扣血
+被攻擊的人可以發動「以毒攻毒」或「免疫反應」。若兩者皆失敗，就會被扣一滴血。
+每個人在自己的回合只能發動一次攻擊。
+# 以毒攻毒
+如果你被 Pathogen 攻擊，且你手上剛好有此 pathogen 對應的 disease，你可以使用該 disease 以毒攻毒該pathogen，然後(若成功)攻擊你的人就會失一滴血。
+例如，小明用 Staphylococcus aureus 攻擊小美，若小美不做任何反應，則小美失一滴血，但若小美以 Staphylococcal food poisoning 的牌反擊，小明就會失一滴血。
+Pathogen和disease不一定是一對一的，而且有些pathogen較廣義，有些較狹義。
+例如有一張牌叫做 Escherichia coli pathogenic serotype，對應到他的disease就有 ETEC, EPEC, EHEC。但另一某張牌 Escherichia coli O157:H7卻只能對應到EHEC。
+又如Salmonella可以對應到 Typhoid fever 和 Salmonellosis，但較狹義的 Salmonella enterica Typhi 只能對應到 Typhoid fever。
+Disease 也有一些較廣義的，能夠對應到多種 pathogen。
+例如 Inflammatory gastroenteritis 可以對應到 Vibrio cholerae, Clostridium difficile, Listeria monocytogenes, Vibrio parahaemolyticus, Vibrio vulnificus ……. 等。/*但不能對應到 Campylobacter jejuni ，因為Campylobacteriosis是invasive。*/而較狹義的Cholera就只能對應到Vibrio cholerae。
