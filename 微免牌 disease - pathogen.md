@@ -2,6 +2,7 @@
  <br> 
 1. 括號內的是已經棄用的牌 <br> 
 2. It is a good practice to italicize the name of bacteria species <br> 
+
 # Dental caries / Dental cavity <br> 
 Streptococcus mutans <br> 
 (Streptococcus sobrinus) <br> 
