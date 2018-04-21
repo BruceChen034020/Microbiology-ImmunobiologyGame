@@ -38,7 +38,7 @@ Vibrio cholerae <br>
 -> *E. coli* pathogenic serotypes <br> 
 # Enteropathogenic E. coli / EPEC 
  <br> 
-*E. coli* pathogenic serotypes <br> 
+-> *E. coli* pathogenic serotypes <br> 
 # Pseudomembranous colitis <br> 
 Clostridium difficile <br> 
 # Listeriosis <br> 
@@ -66,9 +66,9 @@ Helicobacter pylori <br>
 # Vibriosis <br> 
 Vibrio <br> 
 # Typhoid fever <br> 
-*Salmonella enterica* Typhi <br> 
+-> *Salmonella enterica* Typhi <br> 
 # Salmonellosis <br> 
-*Salmonella* serotypes <br> 
+-> *Salmonella* serotypes <br> 
 # Shigellosis <br> 
 Shigella <br> 
 # Enterohemorrhagic E. coli / Hemorrhagic colitis <br> 
@@ -108,7 +108,7 @@ Indigenous microbiota of the URT <br>
 Mycobacterium tuberculosis <br> 
 # Sinusitis <br> 
 Indigenous microbiota of the URT, including <br> 
-*Neisseria*, *Bordetella*, *Corynebacterium*, and *Streptococcus* spp. <br> 
+-> *Neisseria*, *Bordetella*, *Corynebacterium*, and *Streptococcus* spp. <br> 
 # Streptococcal pharyngitis <br> 
 Streptococcal pyogenes <br> 
 Indigenous microbiota of the URT <br> 
@@ -174,7 +174,7 @@ Klebsiella pneumoniae <br>
 Mycoplasma pneumoniae <br> 
 Legionella pneumophila <br> 
 Chlamydia pneumonia <br> 
-*Bacillus anthracis* (inhalational anthrax) <br> 
+-> *Bacillus anthracis* (inhalational anthrax) <br> 
 # Legionnaires' disease / Legionellosis <br> 
 Legionella pneumophila <br> 
 # Chamydial pneumonia <br> 
