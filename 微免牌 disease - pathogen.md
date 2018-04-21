@@ -36,8 +36,7 @@ Clostridium botulinum <br>
 Vibrio cholerae <br> 
 # Enterotoxigenic E. coli / ETEC / Traveler's diarrhea <br> 
 -> *E. coli* pathogenic serotypes <br> 
-# Enteropathogenic E. coli / EPEC 
- <br> 
+# Enteropathogenic E. coli / EPEC <br> 
 -> *E. coli* pathogenic serotypes <br> 
 # Pseudomembranous colitis <br> 
 Clostridium difficile <br> 
