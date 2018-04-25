@@ -23,52 +23,52 @@ Gastric ulcer disease
 
 # Air
 Otitis externa / Acute otitis externa / Swimmer's ear
-Acute bacterial meningitis / ABM
-Acute otitis media / AOM
-Tuberculosis (TB)
-Sinusitis
-Streptococcal pharyngitis
-Scarlet fever
-Diphtheria
-Epiglottitis
-Meningococcal meningitis / Meningococcemia
-Pneumococcal meningitis
-Haemophilus meningitis
-Pertussis / whooping cough / 100-day cough
-Infectious bronchitis
-Healthcare-acquired pneumonia (HCAP)
-Community-acquired pneumonia (CAP)
-Staphylococcal pneumonia
-Pseudomonas pneumonia
-Pneumococcal pneumonia
-Klebsiella pneumonia
-"Atypical" CAP / Walking pneumonia 
-Legionnaires' disease / Legionellosis
-Q fever
-Psittacosis
-Chlamyidal pneumonia
-Tonsillitis
+<br>Acute bacterial meningitis / ABM
+<br>Acute otitis media / AOM
+<br>Tuberculosis (TB)
+<br>Sinusitis
+<br>Streptococcal pharyngitis
+<br>Scarlet fever
+<br>Diphtheria
+<br>Epiglottitis
+Meningococcal meningitis / Meningococcemia<br>
+Pneumococcal meningitis<br>
+Haemophilus meningitis<br>
+Pertussis / whooping cough / 100-day cough<br>
+Infectious bronchitis<br>
+Healthcare-acquired pneumonia (HCAP)<br>
+Community-acquired pneumonia (CAP)<br>
+Staphylococcal pneumonia<br>
+Pseudomonas pneumonia<br>
+Pneumococcal pneumonia<br>
+Klebsiella pneumonia<br>
+"Atypical" CAP / Walking pneumonia<br> 
+Legionnaires' disease / Legionellosis<br>
+Q fever<br>
+Psittacosis<br>
+Chlamyidal pneumonia<br>
+Tonsillitis<br>
 
 # Soil
-Anthrax
-Tetanus
-Gas gangrene
-Leptospirosis (Weil syndrome)
+Anthrax<br>
+Tetanus<br>
+Gas gangrene<br>
+Leptospirosis (Weil syndrome)<br>
 
 # Arthropod
-Plague
-Tularemia
-Lyme disease
-Tickborne (endemic) relapsing fever
-Rockey Mountain spotted fever
-Epidemic typhus / Endemic typhus
-Murine typhus
-Scrub typhus
-Rickettsialpox
+Plague<br>
+Tularemia<br>
+Lyme disease<br>
+Tickborne (endemic) relapsing fever<br>
+Rockey Mountain spotted fever<br>
+Epidemic typhus / Endemic typhus<br>
+Murine typhus<br>
+Scrub typhus<br>
+Rickettsialpox<br>
 
 # Sex
-Chlamydial urethritis / Chlamydia (Salpingitis / Pelvic inflammatory disease / PID)
-Gonorrhea
-Syphilis
-Chancroid
-Lymphogranuloma venereum / LGV
+Chlamydial urethritis / Chlamydia (Salpingitis / Pelvic inflammatory disease / PID)<br>
+Gonorrhea<br>
+Syphilis<br>
+Chancroid<br>
+Lymphogranuloma venereum / LGV<br>
