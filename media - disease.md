@@ -1,24 +1,24 @@
 # Food
-Dental caries / Dental cavity / Tooth decay
-Gingivitis
-Periodontitis / PD
-Staphylococcal food poisoning
-Clostridial food poisoning
-Bacillus cereus food poisoning
-Botulism / Flaccid paralysis
-Cholera
-Enterotoxigenic E. coli / ETEC / Traveler's diarrhea
-Enteropathogenic E. coli / EPEC 
-Pseudomembranous colitis
-Listeriosis
-Inflammatory gastroenteritis
-Vibriosis
-Typhoid fever
-Salmonellosis
-Shigellosis
+Dental caries / Dental cavity / Tooth decay <br>
+Gingivitis<br>
+Periodontitis / PD<br>
+Staphylococcal food poisoning<br>
+Clostridial food poisoning<br>
+Bacillus cereus food poisoning<br>
+Botulism / Flaccid paralysis<br>
+Cholera<br>
+Enterotoxigenic E. coli / ETEC / Traveler's diarrhea<br>
+Enteropathogenic E. coli / EPEC <br>
+Pseudomembranous colitis<br>
+Listeriosis<br>
+Inflammatory gastroenteritis<br>
+Vibriosis<br>
+Typhoid fever<br>
+Salmonellosis<br>
+Shigellosis<br>
 Enterohemorrhagic E. coli / Hemorrhagic colitis
-Campylobacteriosis
-Yersiniosis
+<br>Campylobacteriosis
+<br>Yersiniosis
 Gastric ulcer disease
 
 # Air
