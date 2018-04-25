@@ -193,4 +193,5 @@ Clostridium tetani <br>
 Clostridium perfringens <br> 
 Bacteroides <br> 
 Streptococcus <br>  <br> 
-
+# Leptospirosis
+Leptospira interrogans
