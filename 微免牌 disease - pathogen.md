@@ -201,4 +201,22 @@ Yersinia pestis
 Francisella tularensis
 # Lyme disease
 Borrelia burgdorferi
-# Tickborne / Relapsing fever
+# Tickborne (endemic) Relapsing fever
+Borrelia hermsii
+# Rocky Mountain spotted fever
+Rickettsia rickettsii
+# Epidemic typhus
+Rickettsia prowazekii
+# Murine typhus
+Rickettsia typhi
+# Scrub typhus
+無
+# Rickettsialpox
+Rickettsia prowazekii
+Rickettsia ricketsii
+Rickettsia typhi
+# (Typhus)
+Rickettsia rickettsii
+Rickettsia prowazekii
+Rickettsia typhi
+# 
