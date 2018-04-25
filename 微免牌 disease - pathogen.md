@@ -195,3 +195,10 @@ Bacteroides <br>
 Streptococcus <br>  <br> 
 # Leptospirosis
 Leptospira interrogans
+# Plague
+Yersinia pestis
+# Tularemia
+Francisella tularensis
+# Lyme disease
+Borrelia burgdorferi
+# Tickborne / Relapsing fever
