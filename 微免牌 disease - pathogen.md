@@ -219,4 +219,19 @@ Rickettsia typhi
 Rickettsia rickettsii
 Rickettsia prowazekii
 Rickettsia typhi
-# 
+# (Erlichiosis / HME)
+Erlichia chafeensis
+# (Anaplasmosis / HGA)
+Anaplasma phagocytophilum
+# Chlamydial urethritis / Chlamydia (Salpingitis / Pelvic inflammatory disease / PID)
+Chlamydia trachomatis
+# Gonorrhea
+Neisseria gonorrhoeae
+# Syphilis
+Treponema pallidum
+(Treponema pallidum pallidum)
+# Chancroid
+Haemophilus ducreyi
+# Lymphogranuloma venereum / LGV
+Chlamydia trachomatis
+
