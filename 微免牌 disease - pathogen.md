@@ -212,23 +212,23 @@ Rickettsia typhi
 # Scrub typhus
 無
 # Rickettsialpox
-Rickettsia prowazekii
-Rickettsia ricketsii
+Rickettsia prowazekii <br>
+Rickettsia ricketsii <br>
 Rickettsia typhi
 # (Typhus)
-Rickettsia rickettsii
-Rickettsia prowazekii
+Rickettsia rickettsii <br>
+Rickettsia prowazekii <br>
 Rickettsia typhi
 # (Erlichiosis / HME)
-Erlichia chafeensis
+(Erlichia chafeensis)
 # (Anaplasmosis / HGA)
-Anaplasma phagocytophilum
+(Anaplasma phagocytophilum)
 # Chlamydial urethritis / Chlamydia (Salpingitis / Pelvic inflammatory disease / PID)
 Chlamydia trachomatis
 # Gonorrhea
 Neisseria gonorrhoeae
 # Syphilis
-Treponema pallidum
+Treponema pallidum <br>
 (Treponema pallidum pallidum)
 # Chancroid
 Haemophilus ducreyi
