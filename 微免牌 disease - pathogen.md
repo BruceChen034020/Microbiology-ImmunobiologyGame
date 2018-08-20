@@ -105,7 +105,7 @@ Indigenous microbiota of the URT <br>
 (Group B *Streptococcus*) <br> 
 # Tuberculosis (TB) <br> 
 Mycobacterium tuberculosis <br> 
-# Sinusitis <br> 
+# (Sinusitis) <br> 
 Indigenous microbiota of the URT, including <br> 
 -> *Neisseria*, *Bordetella*, *Corynebacterium*, and *Streptococcus* spp. <br> 
 # Streptococcal pharyngitis <br> 
@@ -176,7 +176,7 @@ Chlamydia pneumonia <br>
 -> *Bacillus anthracis* (inhalational anthrax) <br> 
 # Legionnaires' disease / Legionellosis <br> 
 Legionella pneumophila <br> 
-# Chamydial pneumonia <br> 
+# (Chlamydial pneumonia) <br> 
 Chlamydophila pneumoniae <br> 
 # Q fever <br> 
 Coxiella burnetii <br> 
