@@ -162,7 +162,7 @@ Legionella pneumophila <br>
 Chlamydophila pneumonia <br> 
 (Pneumocystis jirovecii) <br> 
 # Staphylococcal pneumonia <br> 
-Staphylococcal aureus <br> 
+Staphylococcus aureus <br> 
 # Pseudomonas pneumonia <br> 
 Pseudomonas aeruginosa <br> 
 # Pneumococcal pneumonia <br> 
