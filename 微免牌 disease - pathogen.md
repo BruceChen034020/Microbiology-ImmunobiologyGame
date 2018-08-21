@@ -210,11 +210,14 @@ Rickettsia prowazekii
 # Murine typhus
 Rickettsia typhi
 # Scrub typhus
-無
+Orientia tsutsugamushi
 # Rickettsialpox
 Rickettsia prowazekii <br>
 Rickettsia ricketsii <br>
-Rickettsia typhi
+Rickettsia typhi <br>
+
+Rickettsia akari
+
 # (Typhus)
 Rickettsia rickettsii <br>
 Rickettsia prowazekii <br>
