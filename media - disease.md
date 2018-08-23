@@ -19,7 +19,7 @@ Shigellosis<br>
 Enterohemorrhagic E. coli / Hemorrhagic colitis
 <br>Campylobacteriosis
 <br>Yersiniosis
-Gastric ulcer disease
+<br>Gastric ulcer disease
 
 # Air
 Otitis externa / Acute otitis externa / Swimmer's ear
