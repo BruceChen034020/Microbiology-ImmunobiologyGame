@@ -91,5 +91,5 @@ Acne
 <br>Leprosy / Hansen disease (HD)
 <br>Streptococcal TSS (STSS)
 <br>Neonatal conjunctivitis / Ophthalmia of the newborn
-Trachoma<br>
+<br>Trachoma
 
