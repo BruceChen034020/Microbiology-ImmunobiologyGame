@@ -72,3 +72,24 @@ Gonorrhea<br>
 Syphilis<br>
 Chancroid<br>
 Lymphogranuloma venereum / LGV<br>
+Urethritis<br>
+Cystitis<br>
+Prostatitis<br>
+Pyelonephritis<br>
+
+
+# Contact
+Acne
+<br>Burn infections
+<br>Furuncles (boils)
+<br>Carbuncles
+<br>Impetigo
+<br>Scalded skin syndrome
+<br>Toxic shock syndrome (TSS)
+<br>Erysipelas
+<br>Necrotizing fasciitis (NF) / Flesh-eating disease
+<br>Leprosy / Hansen disease (HD)
+<br>Streptococcal TSS (STSS)
+<br>Neonatal conjunctivitis / Ophthalmia of the newborn
+Trachoma<br>
+
