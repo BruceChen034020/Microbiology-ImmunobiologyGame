@@ -238,3 +238,56 @@ Haemophilus ducreyi
 # Lymphogranuloma venereum / LGV
 Chlamydia trachomatis
 
+# Urethritis
+Escherichia coli
+Chlamydia trachomatis
+Neisseria gonorrhoeae
+# Cystitis
+Escherichia coli
+# Prostatitis
+Escherichia coli
+Staphylococcus aureus
+Proteus
+Pseudomonas aeruginosa
+# Pyelonephritis
+Escherichia coli
+Staphylococcus aureus
+Klebsiella pneumoniae
+Pseudomonas aeruginosa
+# Acne
+Propionibacterium acnes
+# Burn infections
+Pseudomonas aeruginosa
+Staphylococcus aureus
+Pseudomonas
+# Furuncles (boils)
+Staphylococcus aureus
+# Carbuncles
+Staphylococcus aureus
+# Impetigo
+Staphycoloccus aureus
+Streptococcus pyogenes
+# Scalded skin syndrome
+Staphylococcus aureus
+# Toxic shock syndrome (TSS)
+Staphylococcus aureus
+# Erysipelas
+Streptococcus pyogenes
+# Necrotizing fasciitis (NF) / Flesh-eating disease
+Streptococcus pyogenes
+# Leprosy / Hansen disease (HD)
+Mycobacterium leprae
+# Neonatal conjunctivitis / Ophthalmia of the newborn
+Neisseria gonorrhoeae
+Chlamydia trachomatis
+# Trachoma
+Clamydia trachomatis
+# Streptococcal TSS (STSS)
+Streptococcus pyogenes
+# (Blepharitis / Stye)
+Staphylococcus aureus
+# (Bacterial conjunctivitis)
+Staphylococcus aureus
+Streptococcus pyogenes
+Haemophilus influenzae
+Neisseria gonorrhoeae
