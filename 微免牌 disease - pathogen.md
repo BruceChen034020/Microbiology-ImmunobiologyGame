@@ -120,7 +120,6 @@ Corynebacterium diphtheriae <br>
 Indigenous microbiota of the URT <br> 
 # Meningococcal meningitis / Meningococcemia <br> 
 Neisseria meningitidis <br> 
-*Neisseria meningitidis* W-135 <br>
 Indigenous microbiota of the URT <br> 
 # Pneumococcal meningitis <br> 
 Streptococcus pneumoniae <br> 
@@ -151,6 +150,8 @@ Mycoplasma pneumoniae <br>
 Legionella pneumophila <br> 
 Chlamydophila pneumonia <br> 
 (Pneumocystis jirovecii) <br> 
+*Neisseria meningitidis* W-135 <br>
+*Neisseria meningitidis* <br>
 # Community-acquired pneumonia (CAP) <br> 
 Streptococcus pneumoniae <br> 
 Haemophilus influenzae <br> 
@@ -162,6 +163,8 @@ Mycoplasma pneumoniae <br>
 Legionella pneumophila <br> 
 Chlamydophila pneumonia <br> 
 (Pneumocystis jirovecii) <br> 
+*Neisseria meningitidis* W-135 <br>
+*Neisseria meningitidis* <br>
 # Staphylococcal pneumonia <br> 
 Staphylococcus aureus <br> 
 # Pseudomonas pneumonia <br> 
