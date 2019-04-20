@@ -120,6 +120,7 @@ Corynebacterium diphtheriae <br>
 Indigenous microbiota of the URT <br> 
 # Meningococcal meningitis / Meningococcemia <br> 
 Neisseria meningitidis <br> 
+*Neisseria meningitidis* W-135 <br>
 Indigenous microbiota of the URT <br> 
 # Pneumococcal meningitis <br> 
 Streptococcus pneumoniae <br> 
