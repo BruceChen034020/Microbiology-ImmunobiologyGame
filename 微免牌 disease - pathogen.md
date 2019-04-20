@@ -104,6 +104,7 @@ Listeria monocytogenes <br>
 Indigenous microbiota of the URT <br> 
 (Group B *Streptococcus*) <br> 
 Klebsiella pneumoniae
+<br>Escherichia coli
 # Tuberculosis (TB) <br> 
 Mycobacterium tuberculosis <br> 
 # (Sinusitis) <br> 
