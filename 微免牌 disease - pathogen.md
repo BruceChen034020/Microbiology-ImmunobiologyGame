@@ -103,7 +103,6 @@ Staphylococcus aureus <br>
 Listeria monocytogenes <br> 
 Indigenous microbiota of the URT <br> 
 (Group B *Streptococcus*) <br> 
-
 Klebsiella pneumoniae
 # Tuberculosis (TB) <br> 
 Mycobacterium tuberculosis <br> 
