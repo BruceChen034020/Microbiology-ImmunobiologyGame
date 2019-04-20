@@ -239,33 +239,33 @@ Haemophilus ducreyi
 Chlamydia trachomatis
 
 # Urethritis
-Escherichia coli
-Chlamydia trachomatis
+Escherichia coli<br>
+Chlamydia trachomatis<br>
 Neisseria gonorrhoeae
 # Cystitis
 Escherichia coli
 # Prostatitis
-Escherichia coli
-Staphylococcus aureus
-Proteus
+Escherichia coli<br>
+Staphylococcus aureus<br>
+Proteus<br>
 Pseudomonas aeruginosa
 # Pyelonephritis
-Escherichia coli
-Staphylococcus aureus
-Klebsiella pneumoniae
+Escherichia coli<br>
+Staphylococcus aureus<br>
+Klebsiella pneumoniae<br>
 Pseudomonas aeruginosa
 # Acne
 Propionibacterium acnes
 # Burn infections
-Pseudomonas aeruginosa
-Staphylococcus aureus
+Pseudomonas aeruginosa<br>
+Staphylococcus aureus<br>
 Pseudomonas
 # Furuncles (boils)
 Staphylococcus aureus
 # Carbuncles
 Staphylococcus aureus
 # Impetigo
-Staphycoloccus aureus
+Staphycoloccus aureus<br>
 Streptococcus pyogenes
 # Scalded skin syndrome
 Staphylococcus aureus
@@ -278,7 +278,7 @@ Streptococcus pyogenes
 # Leprosy / Hansen disease (HD)
 Mycobacterium leprae
 # Neonatal conjunctivitis / Ophthalmia of the newborn
-Neisseria gonorrhoeae
+Neisseria gonorrhoeae<br>
 Chlamydia trachomatis
 # Trachoma
 Clamydia trachomatis
@@ -287,7 +287,7 @@ Streptococcus pyogenes
 # (Blepharitis / Stye)
 Staphylococcus aureus
 # (Bacterial conjunctivitis)
-Staphylococcus aureus
-Streptococcus pyogenes
-Haemophilus influenzae
+Staphylococcus aureus<br>
+Streptococcus pyogenes<br>
+Haemophilus influenzae<br>
 Neisseria gonorrhoeae
