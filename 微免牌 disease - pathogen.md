@@ -297,3 +297,4 @@ Staphylococcus aureus<br>
 Streptococcus pyogenes<br>
 Haemophilus influenzae<br>
 Neisseria gonorrhoeae
+<br>Bacillus cereus
