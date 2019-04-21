@@ -40,6 +40,7 @@ Vibrio cholerae <br>
 -> *E. coli* pathogenic serotypes <br> 
 # Pseudomembranous colitis <br> 
 Clostridium difficile <br> 
+Staphylococcus areus
 # Listeriosis <br> 
 Listeria monocytogenes <br> 
 # Inflammatory gastroenteritis <br> 
