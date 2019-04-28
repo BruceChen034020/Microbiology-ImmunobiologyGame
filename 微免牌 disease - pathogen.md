@@ -155,6 +155,11 @@ Chlamydophila pneumonia <br>
 (Pneumocystis jirovecii) <br> 
 *Neisseria meningitidis* W-135 <br>
 *Neisseria meningitidis* <br>
+*Streptococcus pyogenes* <br>
+(*Streptococcus agalactiae*) <br>
+*Bacillus cereus* with PXO1 plasmid <br>
+(*Nocardia*) <br>
+(*Mycobacterium avium* Complex) <br>
 # Community-acquired pneumonia (CAP) <br> 
 Streptococcus pneumoniae <br> 
 Haemophilus influenzae <br> 
@@ -168,6 +173,11 @@ Chlamydophila pneumonia <br>
 (Pneumocystis jirovecii) <br> 
 *Neisseria meningitidis* W-135 <br>
 *Neisseria meningitidis* <br>
+*Streptococcus pyogenes* <br>
+(*Streptococcus agalactiae*) <br>
+*Bacillus cereus* with PXO1 plasmid <br>
+(*Nocardia*) <br>
+(*Mycobacterium avium* Complex) <br>
 # Staphylococcal pneumonia <br> 
 Staphylococcus aureus <br> 
 # Pseudomonas pneumonia <br> 
