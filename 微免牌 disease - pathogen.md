@@ -219,9 +219,6 @@ Rickettsia typhi
 # Scrub typhus
 Orientia tsutsugamushi
 # Rickettsialpox
-Rickettsia prowazekii <br>
-Rickettsia ricketsii <br>
-Rickettsia typhi <br>
 
 Rickettsia akari
 
