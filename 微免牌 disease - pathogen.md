@@ -236,8 +236,8 @@ Rickettsia akari
 Rickettsia rickettsii <br>
 Rickettsia prowazekii <br>
 Rickettsia typhi
-# (Erlichiosis / HME)
-(Erlichia chafeensis)
+# (Ehrlichiosis / HME)
+(Ehrlichia chafeensis)
 # (Anaplasmosis / HGA)
 (Anaplasma phagocytophilum)
 # Chlamydial urethritis / Chlamydia (Salpingitis / Pelvic inflammatory disease / PID)
