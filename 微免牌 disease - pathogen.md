@@ -6,7 +6,7 @@
 # Dental caries / Dental cavity <br> 
 Streptococcus mutans <br> 
 (Streptococcus sobrinus) <br> 
-(Lectobacillus) <br> 
+(Lactobacillus) <br> 
 括號內的是已經棄用的牌 <br> 
 # Gingivitis <br> 
 Bacteroides <br> 
